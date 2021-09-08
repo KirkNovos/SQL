@@ -107,3 +107,6 @@ SELECT P.ID
   Where P.Title=PM.Продукция AND M.Title=PM.[Наименование материала]
    
 ```
+
+### UseCase
+![UseCase](./img/UseCase.png) 
